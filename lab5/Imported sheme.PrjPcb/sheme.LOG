@@ -1,0 +1,63 @@
+PCAD Importer Log
+Project : sheme.PrjPcb
+
+Section : D:\Programs\PCAD\Lib\Rostik\p-cad-3\sheme.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 221
+        Warning - 1 : Skipping Token defaultPinDes On Line 229
+        Warning - 1 : Skipping Token defaultPinDes On Line 237
+        Warning - 1 : Skipping Token defaultPinDes On Line 265
+        Warning - 1 : Skipping Token defaultPinDes On Line 273
+        Warning - 1 : Skipping Token defaultPinDes On Line 309
+        Warning - 1 : Skipping Token defaultPinDes On Line 317
+        Warning - 1 : Skipping Token defaultPinDes On Line 364
+        Warning - 1 : Skipping Token defaultPinDes On Line 372
+        Warning - 1 : Skipping Token defaultPinDes On Line 380
+        Warning - 1 : Skipping Token defaultPinDes On Line 388
+        Warning - 1 : Skipping Token defaultPinDes On Line 421
+        Warning - 1 : Skipping Token defaultPinDes On Line 429
+        Warning - 1 : Skipping Token defaultPinDes On Line 437
+        Warning - 1 : Skipping Token defaultPinDes On Line 459
+        Warning - 1 : Skipping Token defaultPinDes On Line 466
+        Warning - 1 : Skipping Token defaultPinDes On Line 473
+        Warning - 1 : Skipping Token defaultPinDes On Line 497
+        Warning - 1 : Skipping Token defaultPinDes On Line 505
+        Warning - 1 : Skipping Token defaultPinDes On Line 525
+        Warning - 1 : Skipping Token defaultPinDes On Line 533
+        Warning - 1 : Skipping Token defaultPinDes On Line 577
+        Warning - 1 : Skipping Token defaultPinDes On Line 585
+        Warning - 1 : Skipping Token defaultPinDes On Line 621
+        Warning - 1 : Skipping Token defaultPinDes On Line 629
+        Warning - 1 : Skipping Token defaultPinDes On Line 637
+        Warning - 1 : Skipping Token defaultPinDes On Line 645
+        Warning - 1 : Skipping Token defaultPinDes On Line 653
+        Warning - 1 : Skipping Token defaultPinDes On Line 661
+        Warning - 1 : Skipping Token defaultPinDes On Line 669
+        Warning - 1 : Skipping Token defaultPinDes On Line 677
+        Warning - 1 : Skipping Token defaultPinDes On Line 704
+        Warning - 1 : Skipping Token defaultPinDes On Line 711
+        Warning - 1 : Skipping Token defaultPinDes On Line 718
+        Warning - 1 : Skipping Token defaultPinDes On Line 725
+        Warning - 1 : Skipping Token gridDfns On Line 1269
+        Warning - 1 : Skipping Token refPointSize On Line 1292
+        Warning - 1 : Skipping Token infoPointSize On Line 1293
+        Warning - 1 : Skipping Token junctionSize On Line 1294
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1295
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1296
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1297
+        Warning - 1 : Skipping Token PrintRegion On Line 1499
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1503
+        Warning - 1 : Skipping Token ecoState On Line 1518
+        Warning - 1 : Skipping Token currentTextStyle On Line 1519
+        Warning - 1 : Skipping Token reportSettings On Line 1522
+    EndSection
+
+    Section : Generating SCH Library - sheme.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

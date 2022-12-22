@@ -1,0 +1,97 @@
+PCAD Importer Log
+Project : scheme.PrjPcb
+
+Section : D:\Programs\PCAD\Lib\Rostik\p-cad-4\scheme.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 540
+        Warning - 1 : Skipping Token defaultPinDes On Line 541
+        Warning - 1 : Skipping Token defaultPinDes On Line 542
+        Warning - 1 : Skipping Token defaultPinDes On Line 543
+        Warning - 1 : Skipping Token defaultPinDes On Line 749
+        Warning - 1 : Skipping Token defaultPinDes On Line 750
+        Warning - 1 : Skipping Token defaultPinDes On Line 751
+        Warning - 1 : Skipping Token defaultPinDes On Line 895
+        Warning - 1 : Skipping Token defaultPinDes On Line 896
+        Warning - 1 : Skipping Token defaultPinDes On Line 897
+        Warning - 1 : Skipping Token defaultPinDes On Line 933
+        Warning - 1 : Skipping Token defaultPinDes On Line 934
+        Warning - 1 : Skipping Token defaultPinDes On Line 977
+        Warning - 1 : Skipping Token defaultPinDes On Line 978
+        Warning - 1 : Skipping Token defaultPinDes On Line 1003
+        Warning - 1 : Skipping Token defaultPinDes On Line 1004
+        Warning - 1 : Skipping Token defaultPinDes On Line 1005
+        Warning - 1 : Skipping Token defaultPinDes On Line 1116
+        Warning - 1 : Skipping Token defaultPinDes On Line 1117
+        Warning - 1 : Skipping Token defaultPinDes On Line 1152
+        Warning - 1 : Skipping Token defaultPinDes On Line 1153
+        Warning - 1 : Skipping Token defaultPinDes On Line 1196
+        Warning - 1 : Skipping Token defaultPinDes On Line 1197
+        Warning - 1 : Skipping Token defaultPinDes On Line 1240
+        Warning - 1 : Skipping Token defaultPinDes On Line 1241
+        Warning - 1 : Skipping Token defaultPinDes On Line 1242
+        Warning - 1 : Skipping Token defaultPinDes On Line 1243
+        Warning - 1 : Skipping Token defaultPinDes On Line 1244
+        Warning - 1 : Skipping Token defaultPinDes On Line 1245
+        Warning - 1 : Skipping Token defaultPinDes On Line 1246
+        Warning - 1 : Skipping Token defaultPinDes On Line 1247
+        Warning - 1 : Skipping Token defaultPinDes On Line 1334
+        Warning - 1 : Skipping Token defaultPinDes On Line 1335
+        Warning - 1 : Skipping Token attachedSymbol On Line 1383
+        Warning - 1 : Skipping Token attachedSymbol On Line 1403
+        Warning - 1 : Skipping Token attachedSymbol On Line 1423
+        Warning - 1 : Skipping Token attachedSymbol On Line 1446
+        Warning - 1 : Skipping Token attachedSymbol On Line 1476
+        Warning - 1 : Skipping Token attachedSymbol On Line 1502
+        Warning - 1 : Skipping Token attachedSymbol On Line 1523
+        Warning - 1 : Skipping Token attachedSymbol On Line 1544
+        Warning - 1 : Skipping Token attachedSymbol On Line 1567
+        Warning - 1 : Skipping Token attachedSymbol On Line 1588
+        Warning - 1 : Skipping Token attachedSymbol On Line 1614
+        Warning - 1 : Skipping Token attachedSymbol On Line 1642
+        Warning - 1 : Skipping Token attachedSymbol On Line 1666
+        Warning - 1 : Skipping Token attachedSymbol On Line 1696
+        Warning - 1 : Skipping Token attachedSymbol On Line 1697
+        Warning - 1 : Skipping Token attachedSymbol On Line 1698
+        Warning - 1 : Skipping Token attachedSymbol On Line 1699
+        Warning - 1 : Skipping Token attachedSymbol On Line 1700
+        Warning - 1 : Skipping Token attachedSymbol On Line 1701
+        Warning - 1 : Skipping Token attachedSymbol On Line 1702
+        Warning - 1 : Skipping Token attachedSymbol On Line 1703
+        Warning - 1 : Skipping Token attachedSymbol On Line 1704
+        Warning - 1 : Skipping Token refPointSize On Line 1931
+        Warning - 1 : Skipping Token infoPointSize On Line 1932
+        Warning - 1 : Skipping Token gluePointSize On Line 1933
+        Warning - 1 : Skipping Token pickPointSize On Line 1934
+        Warning - 1 : Skipping Token testPointSize On Line 1935
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1936
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1937
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 1938
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 1939
+        Warning - 1 : Skipping Token testPointSizePrint On Line 1940
+        Warning - 1 : Skipping Token solderFlowDirection On Line 1941
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 1942
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 1943
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 1944
+        Warning - 1 : Skipping Token drillSymSettings On Line 2269
+        Warning - 1 : Skipping Token gerberSettings On Line 2271
+        Warning - 1 : Skipping Token ncDrillSettings On Line 2285
+        Warning - 1 : Skipping Token programState On Line 2294
+        Warning - 1 : Skipping Token displayDrawOrder On Line 2335
+        Warning - 1 : Skipping Token reportSettings On Line 2558
+        Warning - 1 : Skipping Token odbSettings On Line 3255
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [SOT-23][Primary] associated with PCAD Component [2N5551S] has been renamed to PCB FootPrint [SOT-23_2N5551S(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [3528][Primary] associated with PCAD Component [3528] has been renamed to PCB FootPrint [3528_3528(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¿] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¿(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N34] has been renamed to PCB FootPrint [DO-7_1N34(Primary)].
+        Warning : Target Pad Converted To Rounded Pad
+        Warning : Target Pad Converted To Rounded Pad
+        Warning : Target Pad Converted To Rounded Pad
+        Warning : Target Pad Converted To Rounded Pad
+        Warning : Target Pad Converted To Rounded Pad
+        Warning : Target Pad Converted To Rounded Pad
+        Warning - 0 : PCAD Pattern Graphics [TC122][Primary] associated with PCAD Component [TC122] has been renamed to PCB FootPrint [TC122_TC122(Primary)].
+    EndSection
+EndSection

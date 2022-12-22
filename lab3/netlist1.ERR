@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: D:\Programs\PCAD\Lib\Rostik\p-cad-3\netlist1.net
+Error: line 1092
+   * Component LM555CM not loaded.  Component is not in library.
+Error: line 1097
+   * Component  –142≈Õ5¿ not loaded.  Component is not in library.
+Error: line 1153
+   * Component 1N34 not loaded.  Component is not in library.
+Error: line 1158
+   * Component A1401 not loaded.  Component is not in library.
+Error: line 1163
+   * Component TC122 not loaded.  Component is not in library.
+Error: line 1168
+   * Component RS402L not loaded.  Component is not in library.
+Error: Net NET00018: Refdes VD2 of VD2-3 not found.
+Error: Net NET00018: Refdes TV1 of TV1-5 not found.
+Error: Net NET00001: Refdes V1 of V1-2 not found.
+Error: Net NET00003: Refdes TV1 of TV1-1 not found.
+Error: Net NET00004: Refdes VD2 of VD2-2 not found.
+Error: Net NET00004: Refdes TV1 of TV1-4 not found.
+Error: Net NET00019: Refdes VD1 of VD1-A not found.
+Error: Net NET00019: Refdes DD1 of DD1-7 not found.
+Error: Net NET00006: Refdes VD2 of VD2-1 not found.
+Error: Net NET00006: Refdes DA1 of DA1-17 not found.
+Error: Net NET00015: Refdes DD1 of DD1-4 not found.
+Error: Net NET00015: Refdes DD1 of DD1-8 not found.
+Error: Net NET00015: Refdes DA1 of DA1-2 not found.
+Error: Net NET00009: Refdes DD1 of DD1-5 not found.
+Error: Net NET00010: Refdes DD1 of DD1-3 not found.
+Error: Net NET00014: Refdes V1 of V1-UE not found.
+Error: Net NET00021: Refdes VD1 of VD1-K not found.
+Error: Net NET00021: Refdes DD1 of DD1-2 not found.
+Error: Net NET00021: Refdes DD1 of DD1-6 not found.
+Error: Net NET00023: Refdes VD2 of VD2-4 not found.
+Error: Net NET00023: Refdes DD1 of DD1-1 not found.
+Error: Net NET00023: Refdes V1 of V1-1 not found.
+Error: Net NET00023: Refdes DA1 of DA1-8 not found.
+Error: Net NET00023: Refdes TV1 of TV1-2 not found.
+
+Net List Errors:   30
+Net List Warnings: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+30-Nov-22  18:26                                            Page    1
+
